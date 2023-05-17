@@ -76,7 +76,7 @@ const Nav = () => {
         {isUserLoggedIn ? (
           <div className="flex">
             <Image
-              src="/assests/images/logo.svg"
+              src="/assets/images/logo.svg"
               width={37}
               height={37}
               className="rounded-full"
